@@ -95,9 +95,4 @@ python tools/evaluar.py data/raw
 
 El preprocesamiento es necesario en las fotos y no cambia el resultado en los PDF, que ya vienen limpios. La configuración por defecto (binarización adaptativa, bloque 41, C = 10) salió de comparar seis configuraciones sobre las boletas sintéticas; es la única que extrajo los 7 campos en las 6.
 
-## Limitaciones y mejoras
 
-- La extracción usa reglas: cada formato nuevo de PDF (tabla A4, varias páginas) obligó a ajustar patrones.
-- La clasificación depende de que la boleta describa el producto. Un cupón cuya descripción es un correo electrónico queda en «Otros».
-- Tesseract confunde letras parecidas («LG.V» por «I.G.V.») y no lee letra a mano.
-- Mejoras: leer directamente el texto que traen los PDF electrónicos, leer el código QR de la boleta, comparar con EasyOCR o PaddleOCR y entrenar un clasificador con más boletas etiquetadas.
