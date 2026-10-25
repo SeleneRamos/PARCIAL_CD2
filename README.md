@@ -66,7 +66,6 @@ Evita comas y caracteres especiales en la ruta de la carpeta del proyecto (por e
 Abre `OCR_NLP_boletas_peru.ipynb` en https://colab.research.google.com y usa **Entorno de ejecución → Ejecutar todas**. La primera celda instala Tesseract y clona este repositorio. Para analizar tus propias boletas, cambia `SUBIR_ARCHIVOS = True`.
 
 ## Desplegar en Streamlit Community Cloud
-https://ocr-boletas.streamlit.app/
 
 1. Sube esta carpeta a un repositorio público de GitHub.
 2. Entra a https://share.streamlit.io → **Create app** → elige el repositorio, la rama `main` y el archivo `app.py`. En *Advanced settings* elige Python 3.12.
