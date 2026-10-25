@@ -1,0 +1,28 @@
+﻿archivo,formato,paginas,conf_sin_prep,conf_con_prep,campos_sin_prep,campos_con_prep,tipo,serie_numero,ruc_emisor,ruc_valido,razon_social,fecha,op_gravada,igv,total,igv_cuadra,categoria,alertas,angulo_corregido,segundos
+0601-B238-0000083800.pdf,PDF,1,90.6,89.6,7,7,Boleta de venta,B238-00083800,20101259014,True,FUNDACIÓN PARA EL DESARROLLO AGRARIO,11/10/2024,0.0,0.0,150.0,,Educación,,0.0,13.1
+1.jpg,imagen,1,88.8,90.0,7,7,Boleta de venta,B295-00010549,20103626448,True,EMPRESA DE TRANSPORTES CHICLAYO S.A.,31/03/2019,0.0,22.0,22.0,,Transporte,IGV no leído directamente; calculado como total − op. gravada,0.0,4.4
+20422488198-03-BE20-249493.pdf,PDF,1,89.6,89.0,7,7,Boleta de venta,BE20-00249493,20422488198,True,Equi | ional SA!,29/10/2025,143.17,25.77,168.94,True,Otros,,0.0,9.4
+20512002090-03-BE64-613442.pdf,PDF,1,91.2,87.4,7,7,Boleta de venta,BE64-00613442,20512002090,True,MIFARMA S.A.C.,17/08/2025,40.59,7.31,47.9,True,Cuidado personal y belleza,,0.0,17.6
+20518380762-03-B001-00465252.pdf,PDF,1,90.8,87.8,7,7,Boleta de venta,B001-00465252,20518380762,True,Promotick S.A.C.,08/01/2024,16.78,3.02,19.8,True,Entretenimiento,,0.0,8.0
+20555881551_03_BN99-121455_114273908.pdf,PDF,1,89.5,86.2,6,6,Boleta de venta,,20555881551,True,HSM Hennes £ Mauritz S.A.C,24/02/2023,52.45,9.44,61.89,True,Otros,,0.0,11.7
+20600657888-03-B003-312300.pdf,PDF,1,93.0,92.9,7,7,Boleta de venta,B003-00312300,20600657888,True,TIENDAS ARUMA S.A.C.,03/07/2026,43.98,7.92,51.9,True,Cuidado personal y belleza,,0.0,13.4
+20600657888-03-B006-621225.pdf,PDF,1,93.1,93.0,7,7,Boleta de venta,B006-00621225,20600657888,True,TIENDAS ARUMA S.A.C.,17/06/2026,21.1,3.8,24.9,True,Cuidado personal y belleza,,0.0,13.6
+20600657888-03-B019-00184377.pdf,PDF,2,90.3,90.0,7,7,Boleta de venta,B019-00184377,20600657888,True,TIENDAS ARUMA S.A.C.,01/02/2025,134.58,24.23,158.81,True,Cuidado personal y belleza,,0.0,26.4
+20609787768-03-BE02-00098364.pdf,PDF,1,86.9,88.4,7,5,Boleta de venta,BE02-00098364,20609787768,True,YAPE MARKET SOCIEDAD ANÓNIMA CERRADA,03/11/2025,,,,,Alimentos y restaurantes,No se encontró el importe total,0.0,8.0
+20609787768-03-BE02-00732434.pdf,PDF,1,89.8,88.3,7,7,Boleta de venta,BE02-00732434,20609787768,True,YAPE MARKET SOCIEDAD ANÓNIMA CERRADA,19/11/2025,21.1,3.8,24.9,True,Otros,,0.0,8.0
+20609787768-03-BE02-01241174.pdf,PDF,1,86.9,89.5,7,7,Boleta de venta,BE02-01241174,20609787768,True,YAPE MARKET SOCIEDAD ANÓNIMA CERRADA,23/01/2026,16.86,3.04,19.9,True,Alimentos y restaurantes,,0.0,8.1
+20609787768_03_BE02-3230070_9963662.pdf,PDF,1,91.7,90.9,7,7,Boleta de venta,BE02-03230070,20609787768,True,"o, YAPE MARKET SOCIEDAD",21/07/2026,18.56,3.34,21.9,,Alimentos y restaurantes,IGV no leído directamente; calculado como total − op. gravada,0.0,7.7
+20609787768_03_BE02-3230070_9976273.pdf,PDF,1,91.7,90.9,7,7,Boleta de venta,BE02-03230070,20609787768,True,"o, YAPE MARKET SOCIEDAD",21/07/2026,18.56,3.34,21.9,,Alimentos y restaurantes,IGV no leído directamente; calculado como total − op. gravada,0.0,6.7
+20609787768_03_BE02-4270704_12167693.pdf,PDF,1,91.4,89.3,7,7,Boleta de venta,BE02-04270704,20609787768,True,YAPE MARKET SOCIEDAD,15/10/2026,15.08,2.72,17.8,,Entretenimiento,IGV no leído directamente; calculado como total − op. gravada,0.0,7.2
+boleta_prueba.jpg,imagen,1,84.7,75.0,1,3,Boleta de venta,,10072486892,True,ON LINE IMPRESIONES SAC,,,,,,Útiles y librería,No se encontró el importe total,-0.5,3.1
+factura-electronica.png,imagen,1,43.8,60.6,2,7,Factura,F998-00001765,20378350161,False,RADIOSHACK-COOLBOX»,28/03/2016,25.25,4.55,29.8,,Tecnología,RUC emisor con dígito verificador inválido (posible error de OCR); IGV no leído directamente; calculado como total − op. gravada,-1.0,6.1
+facturacion_electronica_ticket.jpg,imagen,1,60.9,91.7,5,7,Factura,F002-00003848,20602953638,True,Señores : SOMA LIMA S.A.C.,14/09/2020,2.03,0.37,2.4,True,Otros,,0.0,5.0
+image001.jpg,imagen,1,31.8,61.4,3,5,Factura,,10354656546,False,COMERCIALIZADORA AECE SAC.,11/03/2004,,,89.4,,Útiles y librería,RUC emisor con dígito verificador inválido (posible error de OCR),0.0,5.1
+image_uni.png,imagen,1,70.0,68.9,3,3,,,20100030595,True,ANCO DE LA NACION,14/02/2026,,,,,Transporte,No se encontró el importe total,0.0,6.4
+plantilla-a-doc-001.jpg,imagen,1,69.2,80.2,3,7,Factura,F001-04900992,20645588151,True,Cliente: RUC 20645588151 -- Bazar San Gabriel Ficticio S.R.L.,18/08/2028,1723.3,310.19,2033.49,True,Tecnología,,2.25,5.3
+plantilla-b-doc-002.jpg,imagen,1,81.9,77.3,6,7,Boleta de venta,B001-07875327,20055731899,False,Emitido: 25/07/2028 - Moneda: PEN,25/07/2028,2250.71,405.13,8994.72,True,Útiles y librería,RUC emisor con dígito verificador inválido (posible error de OCR); Op. gravada + IGV no coincide con el total,-2.5,6.0
+plantilla-c-doc-003.jpg,imagen,1,77.8,79.9,7,7,Factura,F001-06209731,20887663441,True,Textiles El Progroso Simulado S.A.,23/09/2026,6167.28,1110.11,2297.39,True,Educación,Op. gravada + IGV no coincide con el total,-1.5,10.2
+plantilla-d-doc-004.jpg,imagen,1,77.9,85.7,6,6,Boleta de venta,,20701079818,True,"yr. Unión 914, La Molina, Lima, Perú 8001-08517825",16/06/2026,6855.93,1234.07,8090.0,True,Tecnología,,2.25,7.2
+Sunat-Factura-Electronica-no-existe.jpg,imagen,1,74.4,75.2,7,5,Factura,F002-00000345,20514541090,False,SALCEDOTEX S.A.C.,24/01/2018,,,,,Otros,RUC emisor con dígito verificador inválido (posible error de OCR); No se encontró el importe total,0.0,5.5
+unnamed.jpg,imagen,1,76.1,52.8,1,1,,,,,Note quedes no disfrutar de nuestros,,,,,,Otros,No se encontró el importe total,0.0,1.8
+WhatsApp Image 2026-10-24 at 6.47.53 PM.jpeg,imagen,1,78.3,79.9,6,6,Boleta de venta,,20100128056,True,SAGA FALABELLA S.A.,23/10/2026,67.71,12.19,79.9,True,Otros,,1.0,9.5

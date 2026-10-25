@@ -13,11 +13,17 @@ from pytesseract import Output
 # En Windows, Tesseract no queda en el PATH: se indica la ruta del instalador
 import os
 import platform
+import sys
 
 if platform.system() == "Windows":
     _ruta = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
     if os.path.exists(_ruta):
         pytesseract.pytesseract.tesseract_cmd = _ruta
+    else:
+        # Si no existe en Archivos de Programa, busca el Tesseract interno de Conda
+        _ruta_conda = os.path.join(sys.prefix, "Library", "bin", "tesseract.exe")
+        if os.path.exists(_ruta_conda):
+            pytesseract.pytesseract.tesseract_cmd = _ruta_conda
 
 # PSM (page segmentation mode) más útiles para boletas:
 #  4 = una columna de texto de tamaño variable (bueno para tickets)
