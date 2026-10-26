@@ -3,7 +3,7 @@
 Aplicación en Streamlit que lee fotos o PDF de comprobantes de pago peruanos (boletas, facturas, tickets), extrae el texto con OCR y lo analiza con técnicas de NLP para obtener los datos que pide la SUNAT y clasificar el tipo de gasto.
 
 - **App desplegada:** https://ocr-boletas.streamlit.app
-- **Notebook de desarrollo (Colab):** `OCR_NLP_boletas_peru.ipynb`
+- **Notebook de desarrollo (Colab):** [`OCR_NLP_boletas_peru.ipynb`](https://colab.research.google.com/drive/1A2LOLrPQGo3btFE75PHF_jAe5jZ_nFUo?usp=sharing)
 - **Presentación:** `OCR y NLP de boletas peruanas.pptx`
 
 **Problema:** en el Perú muchas personas y pymes registran sus gastos a mano a partir de boletas impresas en papel térmico, que se borran con el tiempo, o de PDF con formatos distintos según la empresa. Copiar el RUC, la fecha, el IGV y el total de cada comprobante toma tiempo y genera errores al deducir gastos o al hacer la conciliación contable.
